@@ -59,7 +59,7 @@ Anda diminta untuk melengkapi fungsi `Insert`, `Edit`, `Delete`, dan `Sort` pada
   - Jika NIM yang dituju tidak ada di dalam file Excel, tampilkan pesan: **"Nim tidak ditemukan"**.
   - Jika data berhasil dihapus, tampilkan pesan: **"Data Sukses di Hapus"**.
 
-### 📊 Fungsi `Sort`
+### 📊 `Sort Table`
 
   - Tabel data yang ditampilkan pada antarmuka Streamlit harus dapat diurutkan berdasarkan kolom yang dipilih melalui `selectbox`.
 
@@ -82,7 +82,7 @@ Mohon patuhi aturan berikut selama pengerjaan:
   - **Fungsi Insert berjalan baik**: `25%`
   - **Fungsi Edit berjalan baik**: `30%`
   - **Fungsi Delete berjalan baik**: `25%`
-  - **Fungsi Sort Table berjalan baik**: `10%`
+  - **Sort Table berjalan baik**: `10%`
   - **Aplikasi dapat digunakan dengan Streamlit**: `10%`
 
 **Good luck\! ✨**
